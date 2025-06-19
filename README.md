@@ -1,5 +1,7 @@
 # DRIFTS-analysis
 ## Description
+NOTE: active version is now on GitLab (https://git.science.uu.nl/icc-coders/drifts-analysis-package). This version will not be kept up-to-date.
+
 This repository contains my DRIFTS_package. Among others, the package can be used to import .dx files, logfiles and GC data from various IR setups from Bruker.
 
 ## Installation 
